@@ -116,7 +116,7 @@ npm run build
 
 ## Tác giả
 
-- [Tên tác giả] - [Website/Github/LinkedIn]
+- Rokuko with AIAI
 
 ## Giấy phép
 
